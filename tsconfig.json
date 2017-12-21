@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib" : ["dom", "es5", "es2015", "scripthost", "dom.iterable"],
+    "target": "es5",
+    "allowJs": true,
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "removeComments": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}

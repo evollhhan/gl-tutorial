@@ -1,0 +1,48 @@
+{
+  "name": "gl-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node build/dev-server.js",
+    "build": "node build/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evollhhan/gl-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evollhhan/gl-tutorial/issues"
+  },
+  "homepage": "https://github.com/evollhhan/gl-tutorial#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.2.1",
+    "connect-history-api-fallback": "^1.5.0",
+    "css-loader": "^0.28.7",
+    "custom-tslint-formatters": "^2.1.1",
+    "eventsource-polyfill": "^0.9.6",
+    "express": "^4.16.2",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "friendly-errors-webpack-plugin": "^1.6.1",
+    "html-webpack-plugin": "^2.30.1",
+    "node-sass": "^4.7.2",
+    "opn": "^5.1.0",
+    "ora": "^1.3.0",
+    "portfinder": "^1.0.13",
+    "postcss-loader": "^2.0.9",
+    "px2rem-loader": "^0.1.7",
+    "rimraf": "^2.6.2",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.0",
+    "ts-loader": "^3.2.0",
+    "tslint": "^5.8.0",
+    "tslint-loader": "^3.5.3",
+    "typescript": "^2.6.2",
+    "webpack": "^3.9.1",
+    "webpack-dev-middleware": "^1.12.2",
+    "webpack-hot-middleware": "^2.21.0"
+  },
+  "dependencies": {}
+}
